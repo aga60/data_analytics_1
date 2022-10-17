@@ -5,21 +5,15 @@ Para realizar el deploy del proyecto hay que abrir una consola y realizar lo sig
 1) Crear una carpeta para el proyecto
 
 2) Crear un entorno virtual
-"""
-   python -m venv my_env
-"""
+
+   `python -m venv my_env`
 
 3) Activar el entorno virtual
-"""
-   .\my_env\Scripts\activate
-"""
+
+   `.\my_env\Scripts\activate`
 
 4) Instalar las dependencias necesarias
-"""
-   pip -r install requirements.txt
-"""
+   `pip -r install requirements.txt`
 
 5) Ejecutar
-"""
-   python __main__.py
-"""
+   `python __main__.py`
