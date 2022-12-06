@@ -1,4 +1,5 @@
 # data_analytics_1
+versión 1 del Challenge
 
 Para realizar el deploy del proyecto hay que abrir una consola y realizar lo siguiente:
 
